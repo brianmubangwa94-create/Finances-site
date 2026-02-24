@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brianmubangwa94-create.github.io/Finances-site/sitemap.xml
