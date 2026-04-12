@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- ==================== CORE PAGES ==================== -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/about.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/contact.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/privacy-policy.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <!-- ==================== CATEGORY PAGES ==================== -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-diabetes.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-heart.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-kidney.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-womens.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-mens.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-fitness.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-nutrition.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-mental.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-sleep.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-supplements.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-allergies.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-aging.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-weight.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-thyroid.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-gut.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-joint.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-fatigue.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/category-gerd.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- ==================== ARTICLE PAGES (41 articles) ==================== -->
+  
+  <!-- Weight Management & GLP-1 -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/ozempic-for-weightloss.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/mounjaro-zepbound-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Diabetes -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/diabetes-treatment-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/preventing-type-2-diabetes.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Heart Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/hypertension-treatment-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/lower-blood-pressure.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/lower-cholesterol.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/lower-cholesterol-naturally-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/omega3-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/coq10-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/potassium-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Kidney Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/ckd-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Gut Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/improve-gut-health-naturally.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/probiotics-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/gut-brain-connection-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/gerd-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Joint Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/osteoarthritis-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Women's Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/creatine-for-women-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/folate-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Men's Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/mens-health-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Fitness & Training -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/heart-rate-training-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Nutrition & Wellness -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/food-as-medicine-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/food-labels-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/hydration-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/energy-boosters-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/antioxidants-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/vitamin-d-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/intermittent-fasting-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Supplements -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/magnesium-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/zinc-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/selenium-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/vitamin-b12-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/iron-deficiency-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Thyroid Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/thyroid-disorders-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Sleep Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/sleep-science.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/natural-sleep-aids-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Mental Health -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/fatigue-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/anxiety-remedies-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/depression-remedies-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Allergies -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/seasonal-allergies-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Healthy Aging -->
+  <url>
+    <loc>https://brianmubangwa94-create.github.io/Finances-site/healthy-aging-guide.html</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+</urlset>
